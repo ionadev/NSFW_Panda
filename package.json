@@ -1,0 +1,21 @@
+{
+  "name": "nsfw_panda",
+  "version": "1.0.0",
+  "description": "porn bot",
+  "main": "index.js",
+  "dependencies": {
+    "commando": "0.0.2",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "memejsfork": "^1.0.4",
+    "random-puppy": "^1.1.0",
+    "superagent": "^4.0.0-beta.5",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helldemon29",
+  "license": "EPL-2.0"
+}
